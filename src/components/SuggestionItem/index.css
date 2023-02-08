@@ -1,0 +1,22 @@
+/* Write your CSS here */
+
+.list-items-container {
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px;
+}
+
+.suggestions {
+  font-family: 'Roboto';
+  font-size: 15px;
+  color: #64748b;
+  margin: 0;
+}
+
+.arrow {
+  height: 20px;
+  width: 20px;
+  cursor: pointer;
+}
